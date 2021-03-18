@@ -10,6 +10,10 @@ Perform correlation analysis.
 Utilize Python Pandas & Dash Plotly 
 Use models such as Moving Average, Long Short Term Model, and Decision Tree and Linear Regression. 
 
+Click below to see full Dashboard
+
+https://g8-stock-prediction.herokuapp.com/
+
 
 Development Team
 
