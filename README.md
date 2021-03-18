@@ -2,7 +2,7 @@
 
 Topic: Analyzing Apple Stock Data to Predict Gain/Loss
 
-Data Source Options: Yahoo Finance
+Data Source: Yahoo Finance
 
 Overview: 
 Using Yahoo Finance data for Apple to train Machine Learning models to determine whether a stock purchase at a given time is a good decision or not. 
